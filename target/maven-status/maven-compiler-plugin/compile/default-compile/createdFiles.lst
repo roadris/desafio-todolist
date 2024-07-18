@@ -1,0 +1,5 @@
+br\com\rodrigo\desafio_todolist\controller\TodoController.class
+br\com\rodrigo\desafio_todolist\service\TodoService.class
+br\com\rodrigo\desafio_todolist\entity\Todo.class
+br\com\rodrigo\desafio_todolist\DesafioTodolistApplication.class
+br\com\rodrigo\desafio_todolist\repository\TodoRepository.class
